@@ -25,11 +25,11 @@
 
 ### 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kavya--sree--gavirineni-a855f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e)](https://www.linkedin.com/in/kavya-sree-gavirineni)
-[![Email](https://img.shields.io/badge/Email-kavya4718%40gmail.com-ff6ec7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e)](mailto:kavya4718@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kavya--sree--9-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e)](https://github.com/kavya-sree-9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kavya--sree--gavirineni-4169E1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120)](https://www.linkedin.com/in/kavya-sree-gavirineni)
+[![Email](https://img.shields.io/badge/Email-kavya4718%40gmail.com-4169E1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120)](mailto:kavya4718@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-kavya--sree--9-4169E1?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120)](https://github.com/kavya-sree-9)
 
-![Profile views](https://komarev.com/ghpvc/?username=kavya-sree-9&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=kavya-sree-9&color=4169E1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -49,16 +49,16 @@ Building React &amp; React Native products across e-commerce, EdTech, and B2B Sa
 <div align="center">
 
 **Languages & Web**
-![JavaScript](https://img.shields.io/badge/JavaScript-1a0b2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-1a0b2e?style=for-the-badge&logo=typescript&logoColor=3178C6) ![HTML5](https://img.shields.io/badge/HTML5-1a0b2e?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1a0b2e?style=for-the-badge&logo=css3&logoColor=1572B6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a0b2e?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8) ![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0b2e?style=for-the-badge&logo=bootstrap&logoColor=a855f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1120?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-0B1120?style=for-the-badge&logo=typescript&logoColor=3178C6) ![HTML5](https://img.shields.io/badge/HTML5-0B1120?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0B1120?style=for-the-badge&logo=css3&logoColor=1572B6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1120?style=for-the-badge&logo=bootstrap&logoColor=4169E1)
 
 **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-1a0b2e?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-1a0b2e?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1a0b2e?style=for-the-badge&logo=expo&logoColor=fff) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-1a0b2e?style=for-the-badge&logo=framer&logoColor=ff6ec7) ![Zustand](https://img.shields.io/badge/Zustand-1a0b2e?style=for-the-badge&logo=react&logoColor=a855f7) ![React Query](https://img.shields.io/badge/React_Query-1a0b2e?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+![React](https://img.shields.io/badge/React-0B1120?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-0B1120?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-0B1120?style=for-the-badge&logo=expo&logoColor=fff) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0B1120?style=for-the-badge&logo=framer&logoColor=4169E1) ![Zustand](https://img.shields.io/badge/Zustand-0B1120?style=for-the-badge&logo=react&logoColor=4169E1) ![React Query](https://img.shields.io/badge/React_Query-0B1120?style=for-the-badge&logo=reactquery&logoColor=FF4154)
 
 **Backend & Data**
-![Node.js](https://img.shields.io/badge/Node.js-1a0b2e?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express.js-1a0b2e?style=for-the-badge&logo=express&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-1a0b2e?style=for-the-badge&logo=mongodb&logoColor=47A248) ![REST APIs](https://img.shields.io/badge/REST_APIs-1a0b2e?style=for-the-badge&logo=fastapi&logoColor=a855f7)
+![Node.js](https://img.shields.io/badge/Node.js-0B1120?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express.js-0B1120?style=for-the-badge&logo=express&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-0B1120?style=for-the-badge&logo=mongodb&logoColor=47A248) ![REST APIs](https://img.shields.io/badge/REST_APIs-0B1120?style=for-the-badge&logo=fastapi&logoColor=4169E1)
 
 **Mobile & Tools**
-![Android Studio](https://img.shields.io/badge/Android_Studio-1a0b2e?style=for-the-badge&logo=androidstudio&logoColor=3DDC84) ![Git](https://img.shields.io/badge/Git-1a0b2e?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=fff) ![VS Code](https://img.shields.io/badge/VS_Code-1a0b2e?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0B1120?style=for-the-badge&logo=androidstudio&logoColor=3DDC84) ![Git](https://img.shields.io/badge/Git-0B1120?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=fff) ![VS Code](https://img.shields.io/badge/VS_Code-0B1120?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
@@ -71,7 +71,7 @@ Building React &amp; React Native products across e-commerce, EdTech, and B2B Sa
 ### 🛒 BOXAIO Platform — Web, Grocery & Mobile MVP
 `Jan 2025 – Present` · [boxaio.com](https://www.boxaio.com/)
 
-![React](https://img.shields.io/badge/React-1a0b2e?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-1a0b2e?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1a0b2e?style=flat-square&logo=expo&logoColor=fff) ![Android Studio](https://img.shields.io/badge/Android_Studio-1a0b2e?style=flat-square&logo=androidstudio&logoColor=3DDC84) ![JavaScript](https://img.shields.io/badge/JavaScript-1a0b2e?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0b2e?style=flat-square&logo=bootstrap&logoColor=a855f7)
+![React](https://img.shields.io/badge/React-0B1120?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-0B1120?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-0B1120?style=flat-square&logo=expo&logoColor=fff) ![Android Studio](https://img.shields.io/badge/Android_Studio-0B1120?style=flat-square&logo=androidstudio&logoColor=3DDC84) ![JavaScript](https://img.shields.io/badge/JavaScript-0B1120?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1120?style=flat-square&logo=bootstrap&logoColor=4169E1)
 
 Built the product catalog UI, category navigation & shopping flow as a functional MVP for an e-commerce platform. Designed reusable cart and product-card components shared across web, mobile & grocery sub-apps, extended into a separate grocery storefront MVP, plus a companion Android/iOS mobile MVP built with Expo.
 
@@ -80,7 +80,7 @@ Built the product catalog UI, category navigation & shopping flow as a functiona
 ### 🏷️ Expert Deals — Web & Mobile MVP
 `2025`
 
-![React](https://img.shields.io/badge/React-1a0b2e?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-1a0b2e?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1a0b2e?style=flat-square&logo=expo&logoColor=fff) ![Android Studio](https://img.shields.io/badge/Android_Studio-1a0b2e?style=flat-square&logo=androidstudio&logoColor=3DDC84) ![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0b2e?style=flat-square&logo=bootstrap&logoColor=a855f7)
+![React](https://img.shields.io/badge/React-0B1120?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-0B1120?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-0B1120?style=flat-square&logo=expo&logoColor=fff) ![Android Studio](https://img.shields.io/badge/Android_Studio-0B1120?style=flat-square&logo=androidstudio&logoColor=3DDC84) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1120?style=flat-square&logo=bootstrap&logoColor=4169E1)
 
 Prototyped a cross-platform deals-aggregation MVP with web and mobile apps and native navigation. Designed responsive web layouts and mobile deal-card components with filterable offer sections, structured on JSON-driven content so deals could update without code changes.
 
@@ -89,7 +89,7 @@ Prototyped a cross-platform deals-aggregation MVP with web and mobile apps and n
 ### 📚 FlippedLearn — LMS & Marketing Platform MVP
 `Jul 2025 – Dec 2025` · [flippedlearn.in](https://www.flippedlearn.in/)
 
-![React Native](https://img.shields.io/badge/React_Native-1a0b2e?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1a0b2e?style=flat-square&logo=expo&logoColor=fff) ![Android Studio](https://img.shields.io/badge/Android_Studio-1a0b2e?style=flat-square&logo=androidstudio&logoColor=3DDC84) ![JavaScript](https://img.shields.io/badge/JavaScript-1a0b2e?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0b2e?style=flat-square&logo=bootstrap&logoColor=a855f7)
+![React Native](https://img.shields.io/badge/React_Native-0B1120?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-0B1120?style=flat-square&logo=expo&logoColor=fff) ![Android Studio](https://img.shields.io/badge/Android_Studio-0B1120?style=flat-square&logo=androidstudio&logoColor=3DDC84) ![JavaScript](https://img.shields.io/badge/JavaScript-0B1120?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1120?style=flat-square&logo=bootstrap&logoColor=4169E1)
 
 Built the LMS frontend MVP on schedule — course listings, module navigation & learner dashboards — plus a React Native/Expo mobile learner app for course browsing and on-the-go module viewing, and a mobile-optimized marketing site shipped in a 6-week timeline.
 
@@ -98,7 +98,7 @@ Built the LMS frontend MVP on schedule — course listings, module navigation & 
 ### 💧 WaterForMe — Web & Mobile MVP
 `2025`
 
-![React Native](https://img.shields.io/badge/React_Native-1a0b2e?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1a0b2e?style=flat-square&logo=expo&logoColor=fff) ![Android Studio](https://img.shields.io/badge/Android_Studio-1a0b2e?style=flat-square&logo=androidstudio&logoColor=3DDC84) ![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0b2e?style=flat-square&logo=bootstrap&logoColor=a855f7)
+![React Native](https://img.shields.io/badge/React_Native-0B1120?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-0B1120?style=flat-square&logo=expo&logoColor=fff) ![Android Studio](https://img.shields.io/badge/Android_Studio-0B1120?style=flat-square&logo=androidstudio&logoColor=3DDC84) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1120?style=flat-square&logo=bootstrap&logoColor=4169E1)
 
 Built a consumer-facing web and mobile MVP for an on-demand water delivery concept — a mobile-first web layout optimized for quick ordering, plus a React Native mobile MVP with a home screen, order-tracking flow & native navigation.
 
@@ -107,7 +107,7 @@ Built a consumer-facing web and mobile MVP for an on-demand water delivery conce
 ### 🏗️ ConnateNow — B2B SaaS Website MVP
 `Nov 2025 – Present` · [connatenow-dev.sblsol.com](https://connatenow-dev.sblsol.com/)
 
-![React](https://img.shields.io/badge/React-1a0b2e?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-1a0b2e?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1a0b2e?style=flat-square&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-1a0b2e?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0b2e?style=flat-square&logo=bootstrap&logoColor=a855f7)
+![React](https://img.shields.io/badge/React-0B1120?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-0B1120?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0B1120?style=flat-square&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0B1120?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1120?style=flat-square&logo=bootstrap&logoColor=4169E1)
 
 Building and iterating on a B2B SaaS marketing site MVP with ongoing feature additions and UI refinements. Fixed a critical Microsoft Edge centering bug affecting all container pages, and built a high-conversion Book-a-Demo page with a multi-field request form, FAQ accordion & How-It-Works section.
 
@@ -116,7 +116,7 @@ Building and iterating on a B2B SaaS marketing site MVP with ongoing feature add
 ### 🏢 SSVNTech — Corporate Website MVP
 `Aug 2025 – Oct 2025` · [ssvndev.sblsol.com](https://ssvndev.sblsol.com/)
 
-![HTML5](https://img.shields.io/badge/HTML5-1a0b2e?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1a0b2e?style=flat-square&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-1a0b2e?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0b2e?style=flat-square&logo=bootstrap&logoColor=a855f7)
+![HTML5](https://img.shields.io/badge/HTML5-0B1120?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0B1120?style=flat-square&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0B1120?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1120?style=flat-square&logo=bootstrap&logoColor=4169E1)
 
 Delivered a corporate website prototype with responsive Bootstrap layouts and cross-browser compatibility, improving UI consistency across pages to align with brand guidelines and stakeholder requirements.
 
@@ -154,16 +154,3 @@ Delivered a corporate website prototype with responsive Bootstrap layouts and cr
 
 </div>
 
-<br/>
-
-## ✍️ Beyond the Code
-
-I'm also the author of *Come Home to Me*, a 75-chapter contemporary romance novel published on Amazon KDP under the pen name **iraa**. When I'm not shipping React components, I'm plotting chapters or brewing another cup of chai. ☕💕
-
-<br/>
-
-<div align="center">
-
-*Sipping chai, shipping React — turning `<div>` soup into MERN magic, one commit at a time.*
-
-</div>
