@@ -1,59 +1,59 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" font-family="'Segoe UI',Arial,sans-serif">
 <defs>
 <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#180a2e"><animate attributeName="stop-color" values="#180a2e;#2a1052;#180a2e" dur="9s" repeatCount="indefinite"/></stop>
-  <stop offset="100%" stop-color="#2a1052"><animate attributeName="stop-color" values="#2a1052;#180a2e;#2a1052" dur="9s" repeatCount="indefinite"/></stop>
+  <stop offset="0%" stop-color="#0B1120"><animate attributeName="stop-color" values="#0B1120;#121A30;#0B1120" dur="9s" repeatCount="indefinite"/></stop>
+  <stop offset="100%" stop-color="#121A30"><animate attributeName="stop-color" values="#121A30;#0B1120;#121A30" dur="9s" repeatCount="indefinite"/></stop>
 </linearGradient>
 <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-  <stop offset="0%" stop-color="#ff6ec7"><animate attributeName="stop-color" values="#ff6ec7;#a855f7;#ff6ec7" dur="5s" repeatCount="indefinite"/></stop>
-  <stop offset="100%" stop-color="#a855f7"><animate attributeName="stop-color" values="#a855f7;#e84fd9;#a855f7" dur="5s" repeatCount="indefinite"/></stop>
+  <stop offset="0%" stop-color="#4169E1"><animate attributeName="stop-color" values="#4169E1;#6C8EFF;#4169E1" dur="5s" repeatCount="indefinite"/></stop>
+  <stop offset="100%" stop-color="#6C8EFF"><animate attributeName="stop-color" values="#6C8EFF;#3454B4;#6C8EFF" dur="5s" repeatCount="indefinite"/></stop>
 </linearGradient>
 <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
   <feGaussianBlur stdDeviation="3" result="b"/>
   <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
 </filter>
 </defs>
-<rect x="0.5" y="0.5" width="479" height="229" rx="18" fill="url(#bgGrad)" stroke="#5b2a86" stroke-width="1.2"/>
-    <text x="24" y="34" font-size="17" font-weight="700" fill="#f3e8ff" font-family="'Segoe UI',Arial,sans-serif">Most Used Languages</text>
-    <line x1="24" y1="46" x2="456" y2="46" stroke="#a855f7" stroke-opacity="0.35"/>
+<rect x="0.5" y="0.5" width="479" height="229" rx="18" fill="url(#bgGrad)" stroke="#3A5BA0" stroke-width="1.2"/>
+    <text x="24" y="34" font-size="17" font-weight="700" fill="#EAF0FF" font-family="'Segoe UI',Arial,sans-serif">Most Used Languages</text>
+    <line x1="24" y1="46" x2="456" y2="46" stroke="#6C8EFF" stroke-opacity="0.35"/>
 <g>
           <circle cx="29" cy="61" r="5" fill="#f1e05a"/>
-          <text x="40" y="66" font-size="13" fill="#f3e8ff">JavaScript</text>
-          <text x="456" y="66" text-anchor="end" font-size="12.5" fill="#c9a8e8">34%</text>
-          <rect x="24" y="72" width="432" height="12" rx="6" fill="#3a1a5c"/>
+          <text x="40" y="66" font-size="13" fill="#EAF0FF">JavaScript</text>
+          <text x="456" y="66" text-anchor="end" font-size="12.5" fill="#8FADEB">34%</text>
+          <rect x="24" y="72" width="432" height="12" rx="6" fill="#1C2B52"/>
           <rect x="24" y="72" width="0" height="12" rx="6" fill="#f1e05a">
             <animate attributeName="width" from="0" to="146.9" begin="0.50s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
           </rect>
         </g><g>
           <circle cx="29" cy="91" r="5" fill="#3178c6"/>
-          <text x="40" y="96" font-size="13" fill="#f3e8ff">TypeScript</text>
-          <text x="456" y="96" text-anchor="end" font-size="12.5" fill="#c9a8e8">26%</text>
-          <rect x="24" y="102" width="432" height="12" rx="6" fill="#3a1a5c"/>
+          <text x="40" y="96" font-size="13" fill="#EAF0FF">TypeScript</text>
+          <text x="456" y="96" text-anchor="end" font-size="12.5" fill="#8FADEB">26%</text>
+          <rect x="24" y="102" width="432" height="12" rx="6" fill="#1C2B52"/>
           <rect x="24" y="102" width="0" height="12" rx="6" fill="#3178c6">
             <animate attributeName="width" from="0" to="112.3" begin="0.72s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
           </rect>
         </g><g>
           <circle cx="29" cy="121" r="5" fill="#e34c26"/>
-          <text x="40" y="126" font-size="13" fill="#f3e8ff">HTML</text>
-          <text x="456" y="126" text-anchor="end" font-size="12.5" fill="#c9a8e8">16%</text>
-          <rect x="24" y="132" width="432" height="12" rx="6" fill="#3a1a5c"/>
+          <text x="40" y="126" font-size="13" fill="#EAF0FF">HTML</text>
+          <text x="456" y="126" text-anchor="end" font-size="12.5" fill="#8FADEB">16%</text>
+          <rect x="24" y="132" width="432" height="12" rx="6" fill="#1C2B52"/>
           <rect x="24" y="132" width="0" height="12" rx="6" fill="#e34c26">
             <animate attributeName="width" from="0" to="69.1" begin="0.94s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
           </rect>
         </g><g>
           <circle cx="29" cy="151" r="5" fill="#563d7c"/>
-          <text x="40" y="156" font-size="13" fill="#f3e8ff">CSS</text>
-          <text x="456" y="156" text-anchor="end" font-size="12.5" fill="#c9a8e8">14%</text>
-          <rect x="24" y="162" width="432" height="12" rx="6" fill="#3a1a5c"/>
+          <text x="40" y="156" font-size="13" fill="#EAF0FF">CSS</text>
+          <text x="456" y="156" text-anchor="end" font-size="12.5" fill="#8FADEB">14%</text>
+          <rect x="24" y="162" width="432" height="12" rx="6" fill="#1C2B52"/>
           <rect x="24" y="162" width="0" height="12" rx="6" fill="#563d7c">
             <animate attributeName="width" from="0" to="60.5" begin="1.16s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
           </rect>
         </g><g>
-          <circle cx="29" cy="181" r="5" fill="#ff6ec7"/>
-          <text x="40" y="186" font-size="13" fill="#f3e8ff">Others</text>
-          <text x="456" y="186" text-anchor="end" font-size="12.5" fill="#c9a8e8">10%</text>
-          <rect x="24" y="192" width="432" height="12" rx="6" fill="#3a1a5c"/>
-          <rect x="24" y="192" width="0" height="12" rx="6" fill="#ff6ec7">
+          <circle cx="29" cy="181" r="5" fill="#4169E1"/>
+          <text x="40" y="186" font-size="13" fill="#EAF0FF">Others</text>
+          <text x="456" y="186" text-anchor="end" font-size="12.5" fill="#8FADEB">10%</text>
+          <rect x="24" y="192" width="432" height="12" rx="6" fill="#1C2B52"/>
+          <rect x="24" y="192" width="0" height="12" rx="6" fill="#4169E1">
             <animate attributeName="width" from="0" to="43.2" begin="1.38s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
           </rect>
         </g>
